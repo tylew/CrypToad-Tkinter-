@@ -2,7 +2,8 @@
 ### BY Tyler Lewis & Aviv Zohman
 ### @ Chapman Univ.
 
-### Save some time, watch the [DEMO VIDEO](https://www.dropbox.com/s/a6uacp1kidlhtpm/CrypToadz%20TKinter%20Demo.mp4?dl=0)
+### Save some time, watch the [DEMO VIDEO](https://www.dropbox.com/s/a6uacp1kidlhtpm/CrypToadz%20TKinter%20Demo.mp4?dl=0), or alternatively refer to the [PDF report](https://github.com/tylew/CrypToad-Tkinter-/blob/main/Database%20Management%20Final%20Paper.pdf) 
+
 
 ## About
 Final project for CPSC 408: Database Management
