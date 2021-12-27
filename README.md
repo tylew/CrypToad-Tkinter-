@@ -22,6 +22,7 @@ Else, here are the credentials to our pre-built database (STATIC DATABASE & NOT 
   https://stackoverflow.com/questions/50236117/scraping-ssl-certificate-verify-failed-error-for-http-en-wikipedia-org
 
 **Libraries to install (MacOS):**
+
 tkinter:
   * pip install tk
 
@@ -38,6 +39,6 @@ urllib:
 connector:
   * pip install mysql-connector-python
 
-**Start program (GUI folder):** 
+### Start program (GUI folder): 
 
   * python3 frame.py
