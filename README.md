@@ -4,7 +4,7 @@
 
 ### Save some time, watch the [DEMO VIDEO](https://www.dropbox.com/s/a6uacp1kidlhtpm/CrypToadz%20TKinter%20Demo.mp4?dl=0)
 
-##About
+## About
 Final project for CPSC 408: Database Management
 If you would like to re-create this project, you must install the following libraries and connect to a database with tables and entities which are laid out in SQL file included with this project.
 
