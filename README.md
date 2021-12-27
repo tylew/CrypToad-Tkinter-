@@ -23,17 +23,17 @@ Else, here are the credentials to our pre-built database (STATIC DATABASE & NOT 
 
 **Libraries to install (MacOS):**
   tkinter:
-    pip install tk
+    - pip install tk
   FPDF:
-    python setup.py install
+    - python setup.py install
   PIL:
-    python3 -m pip install --upgrade pip
-    python3 -m pip install --upgrade Pillow
+    - python3 -m pip install --upgrade pip
+    - python3 -m pip install --upgrade Pillow
   urllib:
-    pip install urllib.request
+    - pip install urllib.request
   connector:
-    pip install mysql-connector-python
+    - pip install mysql-connector-python
 
 **Start program (GUI folder):** 
 
-  python3 frame.py
+  - python3 frame.py
